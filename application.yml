@@ -1,6 +1,7 @@
 spring:
   application:
-    STUDENT-SERVICE
+    name:
+      STUDENT-SERVICE
 
 eureka:
   instance:
